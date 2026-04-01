@@ -4,6 +4,8 @@ The dataset contains detailed information about orders, including restaurant det
 
 ## 📂  Dataset Information
 
+- <a href="https://github.com/SiddheshK29/Swiggy-Data-Analysis-Project/blob/main/Swiggy%20Raw%20Data%20Excel.xlsx">Dataset</a>
+
 The dataset includes the following key columns:
 
 State – State where the order was placed
