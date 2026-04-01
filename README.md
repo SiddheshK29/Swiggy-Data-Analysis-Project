@@ -2,9 +2,9 @@
 This project analyzes Swiggy food delivery data to uncover insights related to customer preferences, restaurant performance, pricing, and ratings.
 The dataset contains detailed information about orders, including restaurant details, food categories, pricing, and customer ratings.
 
-##📂  Dataset Information
+## 📂  Dataset Information
 
-### The dataset includes the following key columns:
+The dataset includes the following key columns:
 
 State – State where the order was placed
 
@@ -34,7 +34,7 @@ Rating – Customer rating
 Rating Count – Number of ratings
 
 
-🎯 ##Objectives
+## 🎯 Objectives
 
 Analyze food ordering trends across cities and states
 
@@ -47,7 +47,7 @@ Explore customer rating patterns
 Compare veg vs non-veg preferences
 
 
-📊 ##Key Analysis Performed
+## 📊 Key Analysis Performed
 
 📍 City-wise and state-wise order distribution
 
@@ -61,7 +61,7 @@ Compare veg vs non-veg preferences
 
 
 
-📈 ##Dashboard & Insights
+## 📈 Dashboard & Insights
 
 The Excel file includes:
 
@@ -72,7 +72,7 @@ Analysis Sheet – Detailed breakdowns and pivot analysis
 Raw Data Sheet – Original dataset used for analysis
 
 
-🛠️ ##Tools Used
+## 🛠️ Tools Used
 
 Microsoft Excel
 
