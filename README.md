@@ -115,4 +115,7 @@ Marketing efforts can be aligned with peak order timings
 
 The analysis demonstrates how data-driven decision-making can significantly improve operational efficiency, customer satisfaction, and revenue growth in the food delivery industry.
 
+<img width="1221" height="550" alt="Dashboard" src="https://github.com/user-attachments/assets/2cb5138a-84bd-4d3d-b8f8-092596be7add" />
+
+
 
