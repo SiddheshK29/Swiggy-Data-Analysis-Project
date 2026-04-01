@@ -33,3 +33,31 @@ Price (INR) – Price of the dish
 Rating – Customer rating
 
 Rating Count – Number of ratings
+
+🎯 Objectives
+Analyze food ordering trends across cities and states
+Identify top-performing restaurants
+Understand pricing distribution
+Explore customer rating patterns
+Compare veg vs non-veg preferences
+
+📊 Key Analysis Performed
+📍 City-wise and state-wise order distribution
+⭐ Top-rated restaurants and dishes
+💰 Price analysis of different food categories
+📅 Time-based trends (day, week, quarter)
+🍔 Category-wise popularity
+📈 Dashboard & Insights
+
+The Excel file includes:
+
+Dashboard Sheet – Visual summary of key metrics
+Analysis Sheet – Detailed breakdowns and pivot analysis
+Raw Data Sheet – Original dataset used for analysis
+
+🛠️ Tools Used
+Microsoft Excel
+Pivot Tables
+Charts & Graphs
+Dashboard Creation
+
