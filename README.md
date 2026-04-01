@@ -73,6 +73,8 @@ Analysis Sheet – Detailed breakdowns and pivot analysis
 
 Raw Data Sheet – Original dataset used for analysis
 
+Dashboard Interaction <a href="https://github.com/SiddheshK29/Swiggy-Data-Analysis-Project/blob/main/Dashboard.png">View Dashboard</a>
+
 
 ## 🛠️ Tools Used
 
