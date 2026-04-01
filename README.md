@@ -34,6 +34,7 @@ Rating – Customer rating
 
 Rating Count – Number of ratings
 
+
 🎯 Objectives
 
 Analyze food ordering trends across cities and states
@@ -45,6 +46,7 @@ Understand pricing distribution
 Explore customer rating patterns
 
 Compare veg vs non-veg preferences
+
 
 📊 Key Analysis Performed
 
@@ -59,6 +61,7 @@ Compare veg vs non-veg preferences
 🍔 Category-wise popularity
 
 
+
 📈 Dashboard & Insights
 
 The Excel file includes:
@@ -68,6 +71,7 @@ Dashboard Sheet – Visual summary of key metrics
 Analysis Sheet – Detailed breakdowns and pivot analysis
 
 Raw Data Sheet – Original dataset used for analysis
+
 
 🛠️ Tools Used
 
