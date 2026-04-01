@@ -102,8 +102,11 @@ Key conclusions from the analysis include:
 
 ## 📊 Business Impact
 Restaurants can optimize pricing and menu strategy based on demand patterns
+
 Swiggy can improve recommendations using rating and category insights
+
 Businesses can focus on high-demand areas for expansion
+
 Marketing efforts can be aligned with peak order timings
 
 ## 🚀 Overall Summary
