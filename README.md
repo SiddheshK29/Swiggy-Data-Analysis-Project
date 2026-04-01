@@ -2,7 +2,7 @@
 This project analyzes Swiggy food delivery data to uncover insights related to customer preferences, restaurant performance, pricing, and ratings.
 The dataset contains detailed information about orders, including restaurant details, food categories, pricing, and customer ratings.
 
-📂  ##Dataset Information
+##📂  Dataset Information
 
 The dataset includes the following key columns:
 
