@@ -1,10 +1,10 @@
-# Swiggy-Data-Analysis-Project ( MS-Excel Project)
+ Swiggy-Data-Analysis-Project ( MS-Excel Project)
 This project analyzes Swiggy food delivery data to uncover insights related to customer preferences, restaurant performance, pricing, and ratings.
 The dataset contains detailed information about orders, including restaurant details, food categories, pricing, and customer ratings.
 
-##Dataset Information
+📂 Dataset Information
 
-###The dataset includes the following key columns:
+The dataset includes the following key columns:
 
 State – State where the order was placed
 
