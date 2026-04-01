@@ -7,9 +7,7 @@ The dataset contains detailed information about orders, including restaurant det
 
 The dataset includes the following key columns:
 
-State – State where the order was placed
-
-City – City of the order
+State – State where the order was placed      City – City of the order
 
 Order Date – Date of order
 
